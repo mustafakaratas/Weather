@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sehirler">
+        <item>Konum</item>
+        <item>İstanbul</item>
+        <item>Kadıköy</item>
+        <item>Şile</item>
+        <item>Ankara</item>
+        <item>İzmir</item>
+        <item>Antalya</item>
+        <item>Alanya</item>
+        <item>Konya</item>
+        <item>Balikesir</item>
+        <item>Ordu</item>
+        <item>Adana</item>
+        <item>Diyarbakır</item>
+        <item>Giresun</item>
+        <item>Londra</item>
+        <item>Paris</item>
+        <item>Tokyo</item>
+
+    </string-array>
+</resources>
